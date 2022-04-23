@@ -39,19 +39,11 @@ R también puede usarse como herramienta de cálculo numérico, campo en el que 
 - Las palabras clave son palabras reservadas específicas en R, cada una de las cuales tiene una característica específica asociada. Casi todas las palabras que ayudan a uno a utilizar la funcionalidad del lenguaje R están incluidas en la lista de palabras clave. ¡Así que uno puede imaginar que la lista de palabras clave no será pequeña! En R, uno puede ver estas palabras clave usando help(reserved)o ?reserved.
 Algunos ejemplos son:
 
-Comando : Traducción
 
-stopifnot : para si no
+![](img/img3.png)
 
-NULL : nulo
 
-paste : pegar
 
-TRUE : verdadero
-
-FALSE : falso
-
-source : fuente
 
 ## Sensible o no a las mayusculas y minisculas.
 - Es sensible a mayúsculas (case sensitive): no es lo mismo A que a.
